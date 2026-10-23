@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+logs/
+.ipynb_checkpoints/
+Adaptive-koopman/
